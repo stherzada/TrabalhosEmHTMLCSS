@@ -1,0 +1,156 @@
+body{background-image:url(img/fundo.png);
+	background-color:;
+	background-repeat: no-repeat ;
+	background-position: center;
+	background-attachment: fixed;
+	background-size:cover;
+	text-align:center}	
+	#Supremo{border:10px inset black;
+			background-color:white;
+			width:1028px;
+			height:3505px;
+			margin:5px auto;}
+			
+	#Little{border :2px solid black;
+			background-color:#4068A3;
+			width: 1000px;
+			height:;
+			margin: 5px auto;
+			text-align:center;}
+	#Frase1{font-size:45px;
+		font-family:French Script MT,Gabriola,Futara;
+		float:center;
+		margin:10px}
+		#Frase2{Font-size:25px;
+		font-family:Calibri;
+		margin:0px;
+		margin-left:-10%;
+		transform: translate(-10%, -10%)}
+		
+	#Logo{padding:1px;
+				background:url(img/Logos.png);
+				background-repeat: no-repeat ;
+				background-position: center ;
+				background-color:white;
+				width  : 118px;
+				height : 118px ;
+				border-width : 2px ;
+				border-color : black ;
+				border-style : solid ;
+				margin-bottom:10px;
+				border-radius: 60px;
+				float: left;
+				margin:5px;
+				text-align:center;
+				text-align:left;}
+	
+	#US a{float: right;
+			width:100px;
+			text-align:center;
+			border:;
+			margin:5px;
+			font-family:Times New Roman;
+			text-decoration:none}
+	#US a:visited{font-family:Times New Roman;
+				color:black;}
+	#Links{border:1px inset silver;
+                width:970px;
+                height:100px;
+                margin:0px auto;
+                border-radius:30px;}	
+		.links{width:160px;
+					color: black;
+					float:left;
+					font-size:15px;
+					font-family:Times New Roman;
+					font-weight: bold;
+					text-align:center;
+					margin:0px auto;}
+		.links a{text-decoration:none}
+	
+	#tab { border:5px solid; 
+				border-color:#0174DF;
+				background-color:white;
+				width: 200px;
+				height:350px;
+				margin: 20px;
+				float:left;}
+	#pac { font-size:30px;
+				color:black;
+				font-family:Arial;
+				text-align:center;
+				margin:10px;
+				border-radius:30px;}	}
+	#pacc { font-size:12px;
+				color:#424242;
+				font-family:Arial;
+				text-align:left;
+				margin:10px;}
+	#tit {font-size:17px;
+				color:black;
+				font-family:Arial;
+				text-align:center;
+				margin:10px;}
+	#estrela { float:left; }
+	
+	#data { float:left; 
+				font-size:20px;
+				text-align:right;
+				margin: 10px ;}	
+	#prec {font-size:20px;
+				color:#424242;
+				font-family:Arial;
+				text-align:left;
+				margin:10px;}
+	#quant {font-size:25px;
+				color:black;
+				font-family:Arial;
+				text-align:left;
+				margin:10px;}						
+	#tabb { border:5px solid; 
+				border-color:#0174DF;
+				background-color:#0174DF;
+				width: 470px;
+				height:510px;
+				margin: 20px;
+				border-radius:30px;}
+	#img { border: 0px solid;
+				background-color:white; 
+				float:left;
+				margin:0px;}			
+	#pacp { font-size:20px;
+				border: 1px solid;
+				border-color:#0174DF;
+				background-color:#B43104;
+				margin: 0px;
+				width: 329px;
+				height: 105px;
+				float: right;
+				border-radius:30px;}
+	#pach { font-size:20px;
+				border: 1px solid;
+				border-color:#0174DF;
+				background-color:#BDBDBD;
+				margin: 0px;
+				width: 329px;
+				height: 105px;
+				float: right;
+				border-radius:30px;}
+	#pacb { font-size:20px;
+				border: 1px solid;
+				border-color:#0174DF;
+				background-color:#FFFF00;
+				margin: 0px;
+				width: 329px;
+				height: 105px;
+				float: right;
+				border-radius:30px;}
+		.rodape{border:1px solid black;
+		width:1020px;
+		float:left;
+		text-align:left;
+		background-color:#037EFF;
+		margin:3px;
+		font-family:Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
+		}
+		.teste{width:1000px}
